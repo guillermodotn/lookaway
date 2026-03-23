@@ -1,0 +1,8 @@
+# Compiled GSettings schemas
+schemas/gschemas.compiled
+
+# Editor files
+*~
+*.swp
+.vscode/
+.idea/

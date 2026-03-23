@@ -1,0 +1,23 @@
+/* LookAway - GNOME Shell Extension Styles */
+
+/* Default label in the top bar */
+.lookaway-label {
+    font-weight: bold;
+    margin-left: 4px;
+}
+
+/* During eye rest - persistent green color */
+.lookaway-break {
+    color: #73d216;
+}
+
+/* Flash state - toggles color to red to grab attention */
+.lookaway-flash {
+    color: #ef2929;
+}
+
+/* When the timer is paused */
+.lookaway-paused {
+    color: #fcaf3e;
+    font-style: italic;
+}

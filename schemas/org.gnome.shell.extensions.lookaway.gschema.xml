@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist gettext-domain="lookaway">
+
+  <schema id="org.gnome.shell.extensions.lookaway"
+          path="/org/gnome/shell/extensions/lookaway/">
+
+    <key name="work-duration" type="i">
+      <default>20</default>
+      <summary>Screen time (minutes)</summary>
+      <description>
+        How many minutes of screen time before an eye rest is triggered.
+        The 20/20/20 rule recommends 20 minutes.
+      </description>
+    </key>
+
+    <key name="break-duration" type="i">
+      <default>20</default>
+      <summary>Eye rest duration (seconds)</summary>
+      <description>
+        How many seconds to rest your eyes by looking at something
+        20 feet (6 metres) away. The 20/20/20 rule recommends 20 seconds.
+      </description>
+    </key>
+
+  </schema>
+
+</schemalist>
