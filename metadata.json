@@ -3,7 +3,7 @@
   "description": "Protects your eyes from screen strain using the 20/20/20 rule. Every 20 minutes, reminds you to look at something 20 feet away for 20 seconds. Shows a countdown in the top bar and flashes when it's time to rest your eyes.",
   "uuid": "lookaway@gnome-extension",
   "url": "https://github.com/guillermodotn/lookaway",
-  "shell-version": ["45", "46", "47", "48"],
+  "shell-version": ["45", "46", "47", "48", "49"],
   "version": 1,
   "settings-schema": "org.gnome.shell.extensions.lookaway"
 }
